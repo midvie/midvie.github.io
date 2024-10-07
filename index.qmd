@@ -1,0 +1,14 @@
+---
+title: "Welcome!"
+about:
+  template: jolla
+  image-shape: rectangle
+---
+
+We are **M**odelling **I**nfectious **D**iseases in **V**ietnam **I**nitiativ**e**.
+
+In infectious disease modelling, no single model can consistently perform well, but an ensemble of models can. That's why we need more modellers to build more diverse models. Our mission is to nurture Vietnamese expertise in infectious disease modelling, who will contribute to develop better, more impactful models for Vietnam.
+
+Inspired by [**MIDSEA**](https://midsea.network/) and [**INDEMIC**](https://sites.google.com/view/indemic/home?authuser=0), we are grateful for their guidance and encouragement.
+
+Whether you live or work in Vietnam or using Vietnam-related data to build models, you're invited to join us. Please feel free to explore the website. Be warned - many materials are in Vietnamese (but hey, you probably expected that, didn't you?).
