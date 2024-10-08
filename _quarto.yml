@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "MIDVIE"
+  title: "midvie"
   navbar:
+    title: "mid<span class='logo-v'>v</span>ie<span class='logo-line'></span>"
     background: light
     left:
       - text: Home
         href: index.qmd
+      - text: News
+        href: news.qmd
       - text: People
         href: people.qmd
       - text: Blog
@@ -16,7 +19,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: [flatly, custom.scss]
     css: styles.css
     toc: true
 
