@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "news/test/index.html",
+    "href": "news/test/index.html",
+    "title": "Website created",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Instruction for writing a post\n\n\n\ninstruction\n\n\n\n\n\n\n\n\n\n\nOct 5, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "midvie",
+    "section": "Welcome!",
+    "text": "Welcome!\n\nWe are Modelling Infectious Diseases in Vietnam Initiative.\nIn infectious disease modelling, no single model can consistently perform well, but an ensemble of models can. That’s why we need more modellers to build more diverse models. Our mission is to nurture Vietnamese expertise in infectious disease modelling, who will contribute to develop better, more impactful models for Vietnam.\nInspired by MIDSEA and INDEMIC, we are grateful for their guidance and encouragement.\nWhether you live or work in Vietnam or using Vietnam-related data to build models, you’re invited to join us. Please feel free to explore the website. Be warned - many materials are in Vietnamese (but hey, you probably expected that, didn’t you?)."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "midvie",
+    "section": "News",
+    "text": "News\n\n\n\n\n\nWebsite created\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\ninstruction\n\n\n\n\n\n\nOct 5, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nWebsite created\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\ninstruction\n\n\n\n\n\n\n\n\n\nOct 5, 2024\n\n\n\n\n\n\nNo matching items"
+  }
+]
